@@ -1,0 +1,79 @@
+body {
+  text-align : center;
+  background : linear-gradient( #fc03df 0%, #0703fc 100% );
+  background-repeat : no-repeat;
+  color : white;
+    margin: 0;
+   padding-top: 100px;
+   text-align: center;
+}
+
+#skating {
+  border-radius:50%;
+  width:100px;
+}
+
+#family {
+  border-radius:50%;
+  width:100px;
+}
+
+#music {
+  border-radius:50%;
+  width:100px;
+}
+
+h1 {
+  text-shadow: 2px #F8BBD0
+}
+
+.menu{
+   list-style: none;
+   font-family: sans-serif;
+   position: absolute;
+   top: 10px;
+   right: 30px;
+   z-index: 10;
+   cursor: pointer;
+}
+
+.links {
+float: left;
+   color: #fff;
+   padding-top: 5px;
+   padding-left: 9px;
+   padding-right: 9px;
+   padding-bottom: 5px;
+   font-family: ;
+   font-size: 20px;  
+}
+
+.links:hover {
+   background-color: black;
+}
+
+h1 { 
+font-size : 30px;  
+}
+
+#PV {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+img:hover {
+    transform: scale(0.9)
+}
+
+#contact iframe {
+   width: 100%;
+}
+
+.contact_1 h3 {
+   display: inline;
+   }
+
+.contact_1 a {
+   color: white;
+   text-shadow: none;
+}
